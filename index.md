@@ -2,31 +2,24 @@
 
 ---
 
-### Category Name 1 
+### SQL (& Tableau) Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [💼Northwind Traders](https://github.com/tubako/northwind-trades#readme)
+= [🔫The SQL Murder Mystery](https://github.com/tubako/the-sql-murder-mystery)
 
 ---
 
-### Category Name 2
+### Python Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [🎬Movie industry](https://github.com/tubako/movie-industry)
+- [📈Car Stock Market Analysis](https://github.com/tubako/stock-analysis)
+
 
 ---
 
+### R Projects
+
+- [🍃Bellabeat Case Study](https://github.com/tubako/bellabeat-case-study#readme)
 
 
 
