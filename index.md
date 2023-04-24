@@ -5,7 +5,7 @@
 ### SQL (& Tableau) Projects
 
 - [💼Northwind Traders](https://github.com/tubako/northwind-trades#readme)
-= [🔫The SQL Murder Mystery](https://github.com/tubako/the-sql-murder-mystery)
+- [🔫The SQL Murder Mystery](https://github.com/tubako/the-sql-murder-mystery)
 
 ---
 
