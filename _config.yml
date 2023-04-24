@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Remziye Tugba Țandără # your name (or website title) here
+logo: "/images/last-cv.jpg?raw=true" <br><br> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A self-taught data analyst or <br>
+  A biomedical engineering graduate who is passionate about data analytics. <br>
+  I love working with data and I am looking to find a professional position that can echo this sentiment. <br><br>
+
+  SQL ✔ <br>
+  Python ✔ <br>
+  R ✔ <br>
+  Tableau ✔ <br>
+  
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/remziye-tugba-tandara/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
