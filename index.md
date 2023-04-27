@@ -19,7 +19,7 @@
 
 ### R Projects
 
-- [🍃Bellabeat Case Study](https://github.com/tubako/bellabeat-case-study/blob/main/README.md)
+- [🍃Bellabeat Case Study](https://github.com/tubako/bellabeat-case-study/blob/main/bellabeat-case-study.html)
 
 
 
