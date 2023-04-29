@@ -16,7 +16,7 @@
 #### [🎬Movie industry](https://github.com/tubako/movie-industry/blob/main/movie-industry.ipynb) <br>
   **Description:** An analysis of the Movie Industry dataset available on Kaggle to check for correlations between certain numeric movie features. <br>
   **Libraries used:** pandas, numpy, matplotlib, seaborn <br>
-  **Status:** Ongoing <br></br>
+  **Status:** Ongoing <br>
 
 #### [📈Car Stock Market Analysis](https://github.com/tubako/stock-analysis/blob/main/car-stocks-analysis.ipynb) <br>
   **Description:** A general look on the stocks of various car brands between the years 2013-2023	<br>
