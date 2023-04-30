@@ -30,7 +30,7 @@
 #### [🍃Bellabeat Case Study](/bellabeat-case-study) <br>
   **Description:** Improve Bellabeat's future marketing strategies by analyzing other smart devices' usage data. <br>
   **Packages used:** tidyverse, skimr, snakecase etc. <br>
-  **Status:** Ongoing <br>
+  **Status:** Completed <br>
 
 
 ---
