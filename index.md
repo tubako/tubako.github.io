@@ -4,7 +4,7 @@
 
 ### SQL (& Tableau) Projects
 
-#### [💼Northwind Traders](https://github.com/tubako/northwind-trades/blob/main/README.md) <br>
+#### [💼Northwind Traders](northwind-trades) <br>
   **Description:** Answer the business question of who gets the bonus for the highest sales amount by analyzing the company database. <br>
   **Functions used:** SELECT, ORDER BY, JOINS, GROUP BY, HAVING, Aggregate functions <br>
   **Status:** Completed  <br>
