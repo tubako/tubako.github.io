@@ -4,7 +4,7 @@
 
 ### SQL (& Tableau) Projects
 
-#### [💼Northwind Traders](/northwind-trades) <br>
+#### [💼Northwind Traders](/northwind-trades.html) <br>
   **Description:** Answer the business question of who gets the bonus for the highest sales amount by analyzing the company database. <br>
   **Functions used:** SELECT, ORDER BY, JOINS, GROUP BY, HAVING, Aggregate functions <br>
   **Status:** Completed  <br>
@@ -27,7 +27,7 @@
 
 ### R Projects
 
-#### [🍃Bellabeat Case Study](/bellabeat-case-study) <br>
+#### [🍃Bellabeat Case Study](/bellabeat-case-study.html) <br>
   **Description:** Improve Bellabeat's future marketing strategies by analyzing other smart devices' usage data. <br>
   **Packages used:** tidyverse, skimr, snakecase etc. <br>
   **Status:** Ongoing <br>
