@@ -2,7 +2,7 @@
 
 ---
 
-### SQL (& Tableau) Projects
+### SQL Projects
 
 #### [💼Northwind Traders](/northwind-trades) <br>
   **Description:** Answer the business question of who gets the bonus for the highest sales amount by analyzing the company database. <br>
