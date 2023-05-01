@@ -18,7 +18,7 @@
   **Libraries used:** pandas, numpy, matplotlib, seaborn <br>
   **Status:** Ongoing <br>
 
-#### [📈Car Stock Market Analysis](https://github.com/tubako/stock-analysis/blob/main/car-stocks-analysis.ipynb) <br>
+#### [📈Car Stock Market Analysis](/car-stocks-analysis) <br>
   **Description:** A general look on the stocks of various car brands between the years 2013-2023	<br>
   **Libraries used:** pandas, pandas_datareader, yfinance, numpy, matplotlib <br>
   **Status:** Completed <br>
