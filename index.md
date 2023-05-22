@@ -1,9 +1,9 @@
 ## Portfolio
 
 #### [🛒Retail Analytics: From Excel to SQL](https://github.com/tubako/retail-analytics/blob/main/README.md) <br>
-  **Description:** Building a Data Pipeline for Online Retail Analysis with Azure and Python <br>
+  **Description:** Building a data pipeline for online retail analysis <br>
   **Tech Stack:** SQL (SELECT, ORDER BY, CREATE, ALTER), Python(pandas, numpy), Azure(Data Factory, SQL Database, SQL Server, Blob Storage) <br>
-  **Status:** Completed  <br>
+  **Status:** Ongoing  <br>
 
 ---
 
