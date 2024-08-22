@@ -1,5 +1,5 @@
 title: Remziye Tugba Tandara # your name (or website title) here
-logo: "/images/last-cv.jpg" # your photo (or logo) here
+logo: "" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   A biomedical engineering graduate who is passionate about data.<br>
@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Python ✔ <br>
   R ✔ <br>
   <br><br>
-  <a href="https://www.linkedin.com/in/remziye-tugba-tandara/">View My LinkedIn Profile</a> 
+ 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
